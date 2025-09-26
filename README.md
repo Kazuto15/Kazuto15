@@ -19,6 +19,7 @@
 </div><br>
 Sou um estudante de programação, com planos de virar um programador Full-stack;<br>
 Cursei javascript voltado para o Front-end no Senac
-Atualmente Cursando DS na Etec.<br>
+Cursei DS na etec
+Atualmente Cursando ADS na São Judas<br>
 
 #### Aproveite a viagem até aqui e de uma olhada nos meus projetos 👀
